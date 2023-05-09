@@ -6,3 +6,6 @@ def ten_element():
         if 3 < i < 8:
             result += i
     print(result)
+    
+
+ten_element()
