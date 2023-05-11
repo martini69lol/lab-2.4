@@ -14,4 +14,4 @@ if __name__ == '__main__':
         print(result)
 
 
-    ten_element()
+ten_element()
